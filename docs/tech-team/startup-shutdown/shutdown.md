@@ -25,7 +25,7 @@ nav_order: 2
 6. Login to the Netgear NAS' web interface and shut that down using the power icon in the top right hand corner
 7. SSH into the Blackbox (`jackhayes`) - note you'll need to use it's IP address as DNS will be broken by this point
    1. Enter the command `sudo shutdown now` to shut it down
-8. SSH into the LibreTime Server (`nelshylton`) - not you'll need to use it's IP address as DNS will be broken by then
+8. SSH into the LibreTime Server (`nelshylton`) - note you'll need to use it's IP address as DNS will be broken by then
    1. Enter the command `sudo shutdown now` to shut it down
 9.  Shutdown PC `PURE-S1-02`
 10. Turn off and unplug PC monitors and mood lighting in Studio 1
