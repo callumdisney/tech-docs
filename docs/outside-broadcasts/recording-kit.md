@@ -7,7 +7,7 @@ nav_order: 1
 
 # Recording Kit
 
-The PureFM Recording Kit is an all-in-one solution for recording single-person and small group interviews. The kit is available to borrow with authorisation from a Committee member and can be taken to events. There is a full kit list provided below and should any issues with the kit arise - please complete a [Tech Support Request](https://thisispurefm.com/tsr).
+The PureFM Recording Kit is an all-in-one solution for recording single-person and small group interviews. The kit is available to borrow with authorisation from a Committee member and can be taken to events. There is a full kit list provided below, and should any issues with the kit arise, please complete a [Tech Support Request](https://thisispurefm.com/tsr).
 
 ## Equipment
 The Recording Kit is comprised of:
