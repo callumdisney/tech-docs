@@ -10,15 +10,15 @@ parent: Home
 
 Welcome to PureFM!
 
-As you'd probably imagine, we've got quite a lot of technology setup to power our two studios and two OB kits. Quite a lot of this lives within our space in the Students Union building but some of it lives in *the cloud*.
+As you'd probably imagine, we've got quite a lot of technology setup to power our two studios and two OB kits. Quite a lot of this lives within our space in the Students Union building, but some of it lives in *the cloud*.
 
 This website will take you through how to use the relevant bits of technology to your involvement at Pure & how to troubleshoot if something should go wrong. 
 
 First, however, everyone will need to follow the subsequent steps to get started using tech @ PureFM.
 
 ## What **you** need to do to get started with Tech at PureFM
-1. Be an Affiliate Member. You can sign up on our upsu.net page.
-2. Complete the Account Creation Request form: [forms.gle/a3df2XiUiGnYCDbd9](https://forms.gle/a3df2XiUiGnYCDbd9)
+1. Be an Affiliate Member. You can sign up on [our upsu.net page](https://upsu.net/groups/2FW49/pure-fm).
+2. Complete the Account Creation Request form: [forms.gle/a3df2XiUiGnYCDbd9](https://forms.gle/a3df2XiUiGnYCDbd9).
 
 And that's it, yes it is really that simple.
 
