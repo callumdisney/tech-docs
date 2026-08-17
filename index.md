@@ -10,7 +10,7 @@ has_toc: false
 
 Here you will find the documentation of how PureFM works. It is a work in progress and content will be added slowly over time. It currently has enough information for you to be able to use Studios 1 and 2, as well as some of the technical team's information on how the tech works. 
 
-If you've stumbled across this and are looking for PureFM's public facing website the head over to [thisispurefm.com](https://thisispurefm.com)
+If you've stumbled across this and are looking for PureFM's public facing website, then head over to [thisispurefm.com](https://thisispurefm.com).
 
 <!-- {: .warning}
 > The tech team are now entering Examination Period. During this time, you can expect delayed response times to messages & any ACRs or TSRs submitted will take longer to be completed.
@@ -20,7 +20,7 @@ If you've stumbled across this and are looking for PureFM's public facing websit
 {: .new}
 > PureFM Committee is in talks with ExpressFM to bring you the option to use a studio space and Record Podcasts.
 
-> The Tech Team currently do not know how to use ExpressFM's equipment or software so at this moment in time we are not very helpful for any ExpressFM tech queries.
+> The Tech Team currently do not know how to use ExpressFM's equipment or software, so at this moment in time we are not very helpful for any ExpressFM tech queries.
 
 
 {: .warning}
